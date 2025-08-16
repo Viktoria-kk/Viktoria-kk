@@ -8,6 +8,9 @@ I'm currently studying at **Business & Technology University**, with a strong in
 - Git & GitHub
 - Figma for UI/UX Design
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktoria-kk&layout=compact&langs_count=5&theme=default)
+
 ### 📚 Currently Learning
 - Back-end development
 - Building full-stack web applications
